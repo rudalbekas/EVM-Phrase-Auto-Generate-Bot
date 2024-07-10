@@ -18,8 +18,8 @@ cd EVM-Phrase-Auto-Generate-Bot
 - Install requirements
 
 ```
-npm install
+npm i ethers
 ```
 
-- Run script using `node index.js`
+- Run script using `node index.cjs`
 
